@@ -1,4 +1,4 @@
-//Question:-3
+//Question:-4
 #include<iostream>
 using namespace std;
 
@@ -29,8 +29,8 @@ main()
 }
    //output:
    
-//1	0  1  0	 1
-// 	1  0  1  0
+//1 0  1  0  1
+//  1  0  1  0
 //     1  0  1
 //        1  0
 //           1
