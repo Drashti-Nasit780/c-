@@ -15,7 +15,7 @@ class BankAccountSystem{
     }
 
     int accno() {
-        return this->accNo;
+        this->accNo;
     }
 
     void getDetails() {
